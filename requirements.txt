@@ -53,6 +53,7 @@ fsspec=2024.12.0=pypi_0
 future=1.0.0=pypi_0
 gast=0.6.0=pypi_0
 google-pasta=0.2.0=pypi_0
+gputil=1.4.0=pypi_0
 graphviz=0.20.3=pypi_0
 grpcio=1.71.0=pypi_0
 h11=0.14.0=pyhd8ed1ab_1
@@ -71,6 +72,7 @@ importlib-metadata=8.6.1=pyha770c72_0
 importlib_resources=6.5.2=pyhd8ed1ab_0
 ipykernel=6.29.5=pyh4bbf305_0
 ipython=8.18.1=pyh7428d3b_3
+ipywidgets=8.1.7=pypi_0
 isoduration=20.11.0=pyhd8ed1ab_1
 jedi=0.19.2=pyhd8ed1ab_1
 jinja2=3.1.6=pyhd8ed1ab_0
@@ -80,6 +82,8 @@ jsonpointer=3.0.0=py39hcbf5309_1
 jsonschema=4.23.0=pyhd8ed1ab_1
 jsonschema-specifications=2024.10.1=pyhd8ed1ab_1
 jsonschema-with-format-nongpl=4.23.0=hd8ed1ab_1
+jupyter=1.0.0=pypi_0
+jupyter-console=6.6.3=pypi_0
 jupyter-lsp=2.2.5=pyhd8ed1ab_1
 jupyter_client=7.4.9=pyhd8ed1ab_0
 jupyter_core=5.7.2=pyh5737063_1
@@ -87,6 +91,7 @@ jupyter_events=0.12.0=pyh29332c3_0
 jupyter_server=2.15.0=pyhd8ed1ab_0
 jupyter_server_terminals=0.5.3=pyhd8ed1ab_1
 jupyterlab=4.4.0=pyhd8ed1ab_0
+jupyterlab-widgets=3.0.15=pypi_0
 jupyterlab_pygments=0.3.0=pyhd8ed1ab_2
 jupyterlab_server=2.27.3=pyhd8ed1ab_1
 kditransform=0.2.0=pypi_0
@@ -100,10 +105,11 @@ loguru=0.7.3=pypi_0
 markdown=3.8=pypi_0
 markdown-it-py=3.0.0=pypi_0
 markupsafe=3.0.2=py39hf73967f_1
-matplotlib=3.9.4=pypi_0
-matplotlib-inline=0.1.7=pyhd8ed1ab_1
+matplotlib=3.7.2=pypi_0
+matplotlib-inline=0.1.6=pypi_0
 matplotlib-venn=1.1.2=pypi_0
 mdurl=0.1.2=pypi_0
+memory-profiler=0.61.0=pypi_0
 mistune=3.1.3=pyh29332c3_0
 ml-dtypes=0.5.1=pypi_0
 mpmath=1.3.0=pypi_0
@@ -126,7 +132,7 @@ opt-einsum=3.4.0=pypi_0
 optree=0.15.0=pypi_0
 overrides=7.7.0=pyhd8ed1ab_1
 packaging=24.2=pyhd8ed1ab_2
-pandas=2.2.3=pypi_0
+pandas=2.0.3=pypi_0
 pandocfilters=1.5.0=pyhd8ed1ab_0
 parso=0.8.4=pyhd8ed1ab_1
 pdf2image=1.17.0=pypi_0
@@ -148,7 +154,7 @@ pyarrow=19.0.1=pypi_0
 pycparser=2.22=pyh29332c3_1
 pygments=2.19.1=pyhd8ed1ab_0
 pymupdf=1.25.5=pypi_0
-pyparsing=3.2.3=pypi_0
+pyparsing=3.0.9=pypi_0
 pysocks=1.7.1=pyh09c184e_7
 python=3.9.21=h8205438_1
 python-dateutil=2.9.0.post0=pyhff2d567_1
@@ -160,14 +166,16 @@ pywin32=307=py39ha51f57c_3
 pywinpty=2.0.15=py39ha51f57c_0
 pyyaml=6.0.2=py39hf73967f_2
 pyzmq=24.0.1=py39hea35a22_1
+qtconsole=5.6.1=pypi_0
+qtpy=2.4.3=pypi_0
 referencing=0.36.2=pyh29332c3_0
-requests=2.32.3=pyhd8ed1ab_1
+requests=2.31.0=pypi_0
 rfc3339-validator=0.1.4=pyhd8ed1ab_1
 rfc3986-validator=0.1.1=pyh9f0ad1d_0
 rich=14.0.0=pypi_0
 rpds-py=0.24.0=py39ha6b3726_0
 scikit-learn=1.5.2=pypi_0
-scipy=1.13.1=pypi_0
+scipy=1.10.1=pypi_0
 seaborn=0.13.2=pypi_0
 send2trash=1.8.3=pyh5737063_1
 setuptools=75.8.0=py39haa95532_0
@@ -215,6 +223,7 @@ webencodings=0.5.1=pyhd8ed1ab_3
 websocket-client=1.8.0=pyhd8ed1ab_1
 werkzeug=3.1.3=pypi_0
 wheel=0.45.1=py39haa95532_0
+widgetsnbextension=4.0.14=pypi_0
 win32-setctime=1.2.0=pypi_0
 win_inet_pton=1.1.0=pyh7428d3b_8
 winpty=0.4.3=4
