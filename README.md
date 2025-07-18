@@ -1,2 +1,4 @@
 
 First, download all relevant source code and dataset files from the aforementioned GitHub repository. Subsequently, create a Python virtual environment (version 3.9.21) using Anaconda, and install all required dependencies as specified in the requirements.txt file provided within the repository. Furthermore, it is essential to ensure that the downloaded code files and the original data files reside within the same directory, so that the program can correctly read the input data and execute the intended processes.
+
+Thank you for your valuable comments. The resource comparison experiment and ablation study were conducted on the Sample_Data dataset. We have placed Resource1 and ablation2 in the same folder. The code can be run directly by simply creating an Anaconda virtual environment and installing the required dependencies from requirements.txt, without any additional configuration.
